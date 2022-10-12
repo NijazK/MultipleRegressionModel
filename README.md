@@ -12,11 +12,14 @@ Import the data and set an additonal random generator to generate 30 random sets
 ##
 ##
 Plot the yields
-![image](https://user-images.githubusercontent.com/75659218/195444476-c9d785b9-6cce-41d6-bf94-713d3ecdaceb.png)
+![image](https://user-images.githubusercontent.com/75659218/195447242-d6b53c2c-f117-4df0-a182-e94314467e25.png)
+
 ##
 ![image](https://user-images.githubusercontent.com/75659218/195444543-a511c65c-e472-4ff9-bf07-9bcae826bf41.png)
 ##
 ##
+## Create a correlation matrix and then 
+![image](https://user-images.githubusercontent.com/75659218/195447400-664b6907-5bc0-4687-ac09-fe25a53e4071.png)
 
 
 
