@@ -1,6 +1,6 @@
-# MultipleRegressionModel
+# Multiple Regression Model
 ## Introduction to Multiple Regression
-A multiple regression is a way to model the linear relationship between one quantitative response variable and more than one predictor variable. Ex: A multiple regression model can be used to model the linear relationship between the quality of a car component and manufacturing inputs, such as machine speed and cutting angle.
+A multiple regression is a way to model the linear relationship between one quantitative response variable and more than one predictor variable. Ex: A multiple regression model can be used to model the linear relationship between the quality of a car component and manufacturing inputs, such as machine speed and cutting angle. (Y = Quality) is the response variable, while (X1 = Speed) and (X2 = Angle) are predictor variables represented in the figure below. The response variable is the variable being modeled or predicted, while the predictor variables are the variables used to predict the response.
 
 ## Example
 For this example, Y = Quality is the response variable, while X1 = Speed and X2 = Angle are predictor variables represented in the figure below. The response variable is the variable being modeled or predicted, while the predictor variables are the variables used to predict the response.
