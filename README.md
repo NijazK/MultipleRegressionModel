@@ -5,9 +5,18 @@ A multiple regression is a way to model the linear relationship between one quan
 ## Example
 For this example, Y = Quality is the response variable, while X1 = Speed and X2 = Angle are predictor variables represented in the figure below. The response variable is the variable being modeled or predicted, while the predictor variables are the variables used to predict the response.
 
-## Further reading
-For this exercise, I will evaulae the following:
-1.) What is the response variable?
-2.) What are the predictor variables?
-3.) What is the expected value of the response variable?
-4.) What is the multiple regression model?
+## Explanation
+Import the data and set an additonal random generator to generate 30 random sets to observe. Then list table
+##
+![image](https://user-images.githubusercontent.com/75659218/195444389-166a72ba-ea6a-4536-8f61-78534f4c26ea.png)
+##
+##
+Plot the yields
+![image](https://user-images.githubusercontent.com/75659218/195444476-c9d785b9-6cce-41d6-bf94-713d3ecdaceb.png)
+##
+![image](https://user-images.githubusercontent.com/75659218/195444543-a511c65c-e472-4ff9-bf07-9bcae826bf41.png)
+##
+##
+
+
+
